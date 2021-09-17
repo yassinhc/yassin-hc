@@ -11,9 +11,9 @@ title                    : "Yassin HC"
 title_separator          : "-"
 name                     : &name "Yassin HC"
 description              : &description "Master student in Data Science at Centrale Lille"
-url                      : https://yassin-hc # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yassinhc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yassin-hc"
+repository               : "yassinhc.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
