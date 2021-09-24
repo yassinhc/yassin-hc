@@ -25,11 +25,11 @@ Work experience
 Skills
 ======
 * Skill 1 Python, Java, C
-* Skill fronted and backend framework
-  * Sub-skill HTML, CSS, JS, Angular, TypeScript
-  * Sub-skill NodeJs, JavaSpring
-  * Sub-skill Postgresql
-* Skill Haskell
+* Skill 2 web development
+  * Sub-skill  front-end: HTML, CSS, JS, Angular, TypeScript
+  * Sub-skill backend: NodeJs, JavaSpring
+  * Sub-skill database: Postgresql
+* Skill 3 Haskell
 
 
  
