@@ -4,10 +4,12 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /resume 
 ---
 
 {% include base_path %}
+
+[CV_pdf](../assets/pdfs/CV_ELHAJJCHEHDE_Yassin_English.pdf)
 
 Education
 ======
@@ -16,7 +18,7 @@ Education
 
 Work experience
 ======
-* Summer 2021: Full stack developper internship
+* Summer 2021: Full stack developer internship
   * ETIXWAY
   * Duties included: creating an application to supervise the salaries in their training
   * Supervisor: Mlle. Kenza Dekik
@@ -24,12 +26,16 @@ Work experience
   
 Skills
 ======
-* Skill 1 Python, Java, C
-* Skill 2 web development
-  * Sub-skill  front-end: HTML, CSS, JS, Angular, TypeScript
-  * Sub-skill backend: NodeJs, JavaSpring
-  * Sub-skill database: Postgresql
-* Skill 3 Haskell
+Computer Science  * Skill 1 Python, Java, C
+                  * Skill 2 web development
+                      * Sub-skill  front-end: HTML, CSS, JS, Angular, TypeScript
+                      * Sub-skill backend: NodeJs, JavaSpring
+                      * Sub-skill database: Postgresql
+                  * Skill 3 Haskell
+
+Languages         * Arabic: native
+                  * French: fluent 
+                  * English: B2
 
 
  
