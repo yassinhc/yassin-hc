@@ -31,8 +31,8 @@ Skills
   * Skill 2 web development
     * Sub-skill  front-end: HTML, CSS, JS, Angular, TypeScript
     * Sub-skill backend: NodeJs, JavaSpring
-    * Sub-skill database: Postgresql
-  * Skill 3 Haskell
+    * Sub-skill database: Postgresql, MySQL
+  * Skill 3 Haskell, AMPL, GIT
 
 * Languages       
   * Arabic: native
