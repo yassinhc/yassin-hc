@@ -12,3 +12,4 @@ I am currently a master student of data science. This master program is supporte
 
 I received the Bachelor degree in Computer Science from University of Lille, Lille, France, in June 2021.
 
+[../images/centrale_lille.png](https://centralelille.fr/)
