@@ -31,11 +31,10 @@ Skills
                       * Sub-skill  front-end: HTML, CSS, JS, Angular, TypeScript
                       * Sub-skill backend: NodeJs, JavaSpring
                       * Sub-skill database: Postgresql
-                  * Skill 3 Haskell
-
-* Languages       * Arabic: native
-                  * French: fluent 
-                  * English: B2
+                    * Skill 3 Haskell
+* Languages         * Arabic: native
+                    * French: fluent 
+                    * English: B2
 
 
  
