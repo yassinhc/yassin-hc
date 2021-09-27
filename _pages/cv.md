@@ -26,18 +26,18 @@ Work experience
   
 Skills
 ======
-* Computer Science :
-                    * Skill 1 Python, Java, C
-                    * Skill 2 web development
-                      * Sub-skill  front-end: HTML, CSS, JS, Angular, TypeScript
-                      * Sub-skill backend: NodeJs, JavaSpring
-                      * Sub-skill database: Postgresql
-                    * Skill 3 Haskell
+* Computer Science
+  * Skill 1 Python, Java, C
+  * Skill 2 web development
+    * Sub-skill  front-end: HTML, CSS, JS, Angular, TypeScript
+    * Sub-skill backend: NodeJs, JavaSpring
+    * Sub-skill database: Postgresql
+  * Skill 3 Haskell
 
-* Languages :        
-                    * Arabic: native
-                    * French: fluent 
-                    * English: B2
+* Languages       
+  * Arabic: native
+  * French: fluent 
+  * English: B2
 
 
  
